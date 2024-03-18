@@ -1,7 +1,7 @@
 # 08-pug
 
-Example using Vue3 with Pug
-Pug: https://pugjs.org/api/getting-started.html
+* Example using Vue3 with Pug
+* Pug: https://pugjs.org/api/getting-started.html
 
 ## Recommended IDE Setup
 
