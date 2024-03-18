@@ -1,6 +1,7 @@
 # 08-pug
 
-This template should help get you started developing with Vue 3 in Vite.
+Example using Vue3 with Pug
+Pug: https://pugjs.org/api/getting-started.html
 
 ## Recommended IDE Setup
 
